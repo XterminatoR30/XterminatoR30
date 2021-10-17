@@ -3,7 +3,7 @@
 ## 21 y.o Fresh Graduate and a Data Science Enthusiast
 
 - 🔭 I just started #66daysofdata challenge by Ken Jee
-Currenly on Section 2 (Day 23-44): MySQL, link to repo below.
+Currenly on Section 2 (Day 23-39): MySQL, link to repo below.
 https://github.com/XterminatoR30/66daysofdata
 - 🌱 Currently learning: Python, MySQL and Power BI
 - ⚡ Contact me: kevin.cliff.kc@gmail.com
