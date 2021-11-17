@@ -1,6 +1,6 @@
 # Hi, I'm Kevin Cliff Gunawan 👋
 
-## 21 y.o Fresh Graduate and currently working full-time as a Data Scientist Trainee
+## 21 y.o Full-Time Data Scientist Trainee
 
 - 🔭 Currently Learning: RFM (Recency, Frequency, Monetary) Customer Segmentation. Repo below.
 https://github.com/XterminatoR30/66daysofdata
