@@ -1,6 +1,6 @@
 # Hi, I'm Kevin Cliff Gunawan 👋
 
-## 22 y.o Full-Time Data Scientist Trainee
+## 24 y.o Full-Time Senior AI Scientist
 
 - 🔭 Developing Corporate Project
 - 🌱 Never Stop Learning
