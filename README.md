@@ -1,6 +1,7 @@
-# Hi, I'm Kevin Cliff Gunawan 👋
+<h1 align="center">Hi 👋, I'm Kevin Cliff Gunawan </h1>
+<h3 align="center">25 y.o Full-Time Senior Data Scientist</h3>
 
-## 25 y.o Full-Time Senior Data Scientist
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=XterminatoR30&label=Profile%20views&color=0e75b6&style=flat" alt="chromium7" /> </p>
 
 - 🔭 Proficient in Data Analysis, LLM & Automated Workflows
 - 🌱 Lifetime Learner, Finance & Data Enthusiast
