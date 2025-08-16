@@ -14,6 +14,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</a>
+<a href="https://langchain.com" target="_blank">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+</a>
 <a href="https://n8n.io" target="_blank">
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
 </a>
@@ -22,6 +28,6 @@
 </a>
 <a href="https://www.postgresql.org" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="postgresql"/>
-</a>
+</a>  
 </p>
 
